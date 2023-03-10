@@ -1,4 +1,4 @@
-# Comsumer goods sql challenge project
+# Consumer goods sql challenge project
 
 This project is part of Codebasics Resume Project Challenge.
 
